@@ -14,3 +14,5 @@ How to use
     
     Example:  python my_scp.py this.txt root@127.0.0.1:/my_directory
     
+    
+NOTE: This is a very basic application can only be used for single file transfer. Tested with Windows as local system and RedHat as remote_server. Will keep upgrade.
